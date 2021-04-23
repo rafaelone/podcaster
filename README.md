@@ -4,7 +4,7 @@
 
 ### 🚀 O que é o Podcaster ?
 
-O Podcaster é uma aplicação web para escutor nossos podcasts.💜
+O Podcaster é uma aplicação web para escutar nossos podcasts.💜
 
 <p align="center">
 
